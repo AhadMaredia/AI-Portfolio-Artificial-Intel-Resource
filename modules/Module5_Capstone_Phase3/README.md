@@ -1,23 +1,25 @@
-# Module 5: Natural Language Processing
+# Capstone Project — Phase 3
 
-This module introduces NLP concepts and connects AI language processing to the Arrival (2016) film analysis.
+Working AI Model*
 
-## Topics Covered
+This module delivered the fully trained XGBoost model as a serialized file.
 
-- Tokenization, stemming, lemmatization
-- Bag-of-Words, TF-IDF
-- Intro to transformers
-- Communication and linguistic challenges (Arrival tie-in)
+## Deliverables
 
-## Assignments in This Module
+final_xgboost_model.pkl
 
-NLP activity worksheet
+Ready for integration into the system prototype (Phase 4)
 
-- Arrival NLP analysis essay (3 pages)
-- Capstone: Define your assistant’s text-processing flow
+## What This Model Includes
 
-## Capstone Project Connection
+Final tuned hyperparameters
 
-You work on:
-- User-intent recognition steps
-- Chatbot conversation workflow diagram
+Pretrained forecasting capability
+
+Portable binary file for production or API use
+
+## Skills Demonstrated
+
+Model serialization
+
+Versioning and reproducible ML workflows
