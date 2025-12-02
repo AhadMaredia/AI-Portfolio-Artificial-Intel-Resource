@@ -1,2 +1,8 @@
 # Module 1 – Reflection
-(This module contains your summary/introduction to AI.)
+The first module presented the basics of Artificial Intelligence as an evolving general-purpose technology, impacting industries, businesses, and daily workflows. I realized that AI is not a single tool, but rather a set of technologies that include deep learning, natural language processing, machine learning, and generative pre-trained transformers (GPT). These technologies enable applications in industries such as healthcare and education, as well as in enterprise automation, demonstrating the scope of AI’s applications.
+
+I learned that LLMs can perform a multitude of different coherent tasks. They generate coherent text, perform context-aware language translation, succinctly summarize complex documents, and even perform sentiment analysis. I was impressed by the decision-making facilitation capability of LLMs, where data is ingested rapidly and content is tailored to the user. This explains, to a large extent, how AI provides various benefits in the modern context.
+
+The slides presented a comparison between LLMs in-app and web-based, focusing on their accessibility and interface design. Another insight was how AI Generative tools create value for the business and the employee. For businesses, AI provides seamless access to operational and historical data, transforming it into various formats such as text, bullet points, graphs, and even audio, thereby enabling knowledge to be more business-ready. Increased speed of decision-making and a marked competitive edge stand to directly benefit employees.
+
+As an evolving field, prompt engineering was noted for its future potential, offering advanced integration with other AI tools and more intuitive systems for general users. This module was particularly engaging since it served as a reminder of how AI tools are likely to evolve and enhance functionality in the future, both in practical and creative ways.
