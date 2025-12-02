@@ -1,21 +1,36 @@
-# Module 3: Machine Learning Basics
-This module introduces ML concepts, common algorithms, and model training workflows.
+# Capstone Project — Phase 1
 
-## Topics Covered
+AI Inventory Optimizer — Project Blueprint*
 
-- Supervised vs. unsupervised learning
-- Training, testing, and validating models
-- Evaluation metrics (accuracy, precision, recall, etc.)
-- Common algorithms (kNN, Decision Trees, Naïve Bayes)
+This module required the planning and design of the group capstone project.
 
-## Assignments in This Module
+## Project Overview
 
-- ML algorithm comparison chart
-- Train a small ML model using guided steps
-- Capstone: Define your model’s role in the final project
+Title: AI Inventory Optimizer
+Goal: Forecast weekly product demand and recommend trending items to prevent overstock/understock.
 
-## Capstone Project Connection
-For the capstone, you:
+## Problems Identified
 
-- Describe what ML model your assistant will use
-- Explain how your model will be trained
+Overstock → financial waste, expired goods
+
+Understock → lost sales
+
+Difficulty identifying new trends
+
+Manual decision-making leads to errors
+
+## Objectives
+
+Demand forecasting (weekly sales)
+
+Product recommendation engine
+
+Data upload dashboard for insights
+
+## Tools & Environment
+
+Python, Pandas, Scikit-Learn, XGBoost
+
+Jupyter Notebook
+
+Preprocessed Walmart dataset
