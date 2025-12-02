@@ -1,21 +1,41 @@
-# Module 6: Applied AI in Industries
+# Capstone Project — Phase 4
 
-This module explores how AI is used in real-world settings and prepares you to justify your capstone project’s value.
+Integrated System Prototype*
 
-## Topics Covered
+This module required integrating the machine learning model with a functioning UI/system.
 
-- AI in healthcare systems
-- AI in education platforms
-- Customer service AI tools (chatbots, assistants)
+## Prototype Features
 
-## Assignments in This Module
+- Upload sales data (CSV)
 
-- Compare AI advancements in two industries
-- Case study review
-- Capstone: Industry justification paragraph
+- Automated preprocessing pipeline
 
-## Capstone Project Connection
+- Model inference using the XGBoost .pkl file
 
-You:
-- Explain why your domain-specific assistant is needed
-- Identify the benefits and potential limitations
+- Output:
+
+  Weekly demand predictions
+
+  Suggested high-demand / trending products
+
+- Optional dashboard or interface (depending on group implementation)
+
+## Artifacts
+
+- ZIP file containing:
+
+  Front-end UI
+
+  Back-end scripts
+
+  Model loading pipeline
+
+  Any Flask/Streamlit/FastAPI implementation
+
+## Skills Gained
+
+End-to-end machine learning integration
+
+Linking ML models with user interfaces
+
+API handling & data flow
