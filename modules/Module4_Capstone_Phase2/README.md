@@ -1,22 +1,59 @@
-# Module 4: Neural Networks
+# Capstone Project — Phase 2
 
-This module provides an introduction to neural networks, TensorFlow Playground, and how multilayer models learn.
+Model Development & Evaluation*
 
-## Topics Covered
+This module required building and evaluating multiple ML models for forecasting.
 
-- Neurons, layers, weights, activations
-- Overfitting, underfitting, learning rate tuning
-- Using TensorFlow Playground
-- Basics of deep learning architectures
+## Dataset
 
-## Assignments in This Module
+Cleaned Walmart sales dataset
 
-- Neural network experimentation in TensorFlow Playground
-- Model configuration report
-- Capstone: Draft architecture for your AI assistant
+Features included:
 
-## Capstone Project Connection
+Store type/size
 
-- In this module, you:
-- Create a preliminary model diagram
-- Explain expected inputs/outputs for your chatbot
+Economic indicators (CPI, unemployment)
+
+Markdown events
+
+Week, month
+
+Lag & rolling sales features
+
+## Models Developed
+
+1. Linear Regression
+
+RMSE: 21,752
+
+R²: 0.093
+
+Poor for nonlinear data
+
+2. Gradient Boosting
+
+RMSE: 11,524
+
+R²: 0.745
+
+3. Random Forest (Baseline Winner)
+
+RMSE: 3,421
+
+R²: 0.978
+
+## Advanced Modeling: XGBoost
+
+Base: RMSE 6,871 | R² 0.909
+
+Grid Search R² ≈ 0.928
+
+Random Search R² ≈ 0.938
+
+## Final Tuned Model
+
+RMSE: 4,858.70
+
+R²: 0.9547
+
+Chosen as final deployment model
